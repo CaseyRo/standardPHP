@@ -1,0 +1,15 @@
+{
+    "name": "keesromkes/standard",
+    "description": "standard stuff",
+    "type": "project",
+    "require": {
+        "sentry/sentry": "^1.8",
+        "guzzlehttp/guzzle": "^6.3"
+    },
+    "authors": [
+        {
+            "name": "Kees",
+            "email": "k.romkes@gmail.com"
+        }
+    ]
+}
